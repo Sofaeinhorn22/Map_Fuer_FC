@@ -5,6 +5,7 @@ Das sind die Sachen, Die ich für den FiveM Server FiveCity, Gemacht Habe.
 -Install-
 
 1. Den Ordner "Sofas" in den resources Ordner des Servers
+!WICHTIG! Der Ordner in der .zip
 2. Schreibe "start Sofas" In die server.cfg um alles zu laden
 
 
