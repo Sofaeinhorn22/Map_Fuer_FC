@@ -1,6 +1,6 @@
 # Map_Fuer_FC
 
-Dies Sind Die sachen Die Ich Für den FiveM RP Server FiveCity Gemacht Habe.
+Das sind die Sachen, Die ich für den FiveM Server FiveCity, Gemacht Habe.
 
 -Install-
 
@@ -10,7 +10,7 @@ Dies Sind Die sachen Die Ich Für den FiveM RP Server FiveCity Gemacht Habe.
 
 
 -Copyright-
-
+#HabeKeins#
 Wenn ihr meine arbeit Wollt Dann holt Sie euch halt,
 Aber seit dann so nett und Geb mir Via DC Bescheid Das ihr sie nuttzen wollt
 ein "Jo ist geil Nehm ich mir für meinen Server" Das Reicht Mir
