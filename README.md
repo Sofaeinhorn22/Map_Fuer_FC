@@ -2,6 +2,10 @@
 
 Das sind die Sachen, Die ich für den FiveM Server FiveCity, Gemacht Habe.
 
+-Download-
+Um Immer die neuste Version zu haben gehe auf "Tags" und
+~Pro Tip~ nimm die Neuste Version
+
 -Install-
 
 1. Den Ordner "Sofas" in den resources Ordner des Servers
