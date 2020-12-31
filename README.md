@@ -16,6 +16,11 @@ Das sind die Sachen, Die ich für den FiveM Server FiveCity, Gemacht Habe.
 -Copyright-
 
 Zu Finden Im Der "LICENSE.md"
+Gilt Ab V1.3F
+
+
+
+
 
 DC Tag:
 Sofaeinhorn22 | Matthias#5044
