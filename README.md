@@ -3,8 +3,7 @@
 Das sind die Sachen, Die ich für den FiveM Server FiveCity, Gemacht Habe.
 
 -Download-
-Um Immer die neuste Version zu haben gehe auf "Tags" und
-~Pro Tip~ nimm die Neuste Version
+[TuT Für Download](https://imgur.com/a/22e0iv4)
 
 -Install-
 
