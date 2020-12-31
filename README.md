@@ -23,3 +23,4 @@ ein "Jo ist geil Nehm ich mir für meinen Server" Das Reicht Mir
 
 DC Tag:
 Sofaeinhorn22 | Matthias#5044
+DC Server: [Hier](https://discord.gg/AKWxnsGfU7)
